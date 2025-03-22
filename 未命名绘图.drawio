@@ -141,7 +141,7 @@
         <mxCell id="91jvx7QYuH4bhER9f3Xn-6" value="教师信息管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="273" y="190" width="133" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="91jvx7QYuH4bhER9f3Xn-7" value="评教操作" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="91jvx7QYuH4bhER9f3Xn-7" value="评教结果管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="276.5" y="253" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="91jvx7QYuH4bhER9f3Xn-8" value="登入系统" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
