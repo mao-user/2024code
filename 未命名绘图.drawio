@@ -109,7 +109,7 @@
         <mxCell id="Hhawp_6B067g2484ORO7-7" value="评教操作" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="276.5" y="253" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Hhawp_6B067g2484ORO7-8" value="登入系统" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Hhawp_6B067g2484ORO7-8" value="登入注册" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="274.5" y="128" width="130" height="41" as="geometry" />
         </mxCell>
         <mxCell id="Hhawp_6B067g2484ORO7-9" value="学生端分享" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
