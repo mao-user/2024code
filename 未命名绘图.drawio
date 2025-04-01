@@ -102,7 +102,7 @@
         <mxCell id="91jvx7QYuH4bhER9f3Xn-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="91jvx7QYuH4bhER9f3Xn-5" target="91jvx7QYuH4bhER9f3Xn-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nmdhA0ZD9sHGy71seVK8-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="91jvx7QYuH4bhER9f3Xn-5">
+        <mxCell id="nmdhA0ZD9sHGy71seVK8-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="91jvx7QYuH4bhER9f3Xn-5" target="nmdhA0ZD9sHGy71seVK8-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="272" y="87" as="targetPoint" />
           </mxGeometry>
@@ -111,19 +111,19 @@
           <mxGeometry x="94" y="193" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="91jvx7QYuH4bhER9f3Xn-6" value="教师信息管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="273" y="190" width="133" height="43" as="geometry" />
+          <mxGeometry x="272" y="193" width="133" height="43" as="geometry" />
         </mxCell>
         <mxCell id="91jvx7QYuH4bhER9f3Xn-7" value="评教结果管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="276.5" y="253" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="91jvx7QYuH4bhER9f3Xn-8" value="登入功能" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="275.5" y="128" width="130" height="41" as="geometry" />
+          <mxGeometry x="274" y="134" width="130" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="91jvx7QYuH4bhER9f3Xn-9" value="教师端分享" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="275.5" y="318" width="129.5" height="40" as="geometry" />
+        <mxCell id="91jvx7QYuH4bhER9f3Xn-9" value="分享功能" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="274.13" y="313" width="134.75" height="41" as="geometry" />
         </mxCell>
         <mxCell id="nmdhA0ZD9sHGy71seVK8-2" value="注册功能" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="273" y="67" width="132" height="42" as="geometry" />
+          <mxGeometry x="272.5" y="74" width="132" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
