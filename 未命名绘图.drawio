@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.6" pages="7">
   <diagram id="BqKJMf85FPqzIqud4xsY" name="管理员">
-    <mxGraphModel dx="1157" dy="409" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1157" dy="427" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,7 +30,7 @@
         <mxCell id="Rj7lTGnkJ_8Ad0_1yGEh-5" value="评教信息管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="249" width="123" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wLHuV9FiwggXm_gmEuJT-2" value="系统设置" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="wLHuV9FiwggXm_gmEuJT-2" value="登入系统" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="88" y="313" width="126" height="38" as="geometry" />
         </mxCell>
       </root>
