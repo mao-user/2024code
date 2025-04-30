@@ -803,7 +803,7 @@
           <mxGeometry x="464" y="173.5" width="111" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DAFoW49E7b35dmBFvZMx-5" value="D3&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;评教信息表" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
-          <mxGeometry x="170" y="-226" width="109" height="30" as="geometry" />
+          <mxGeometry x="38" y="41" width="109" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DAFoW49E7b35dmBFvZMx-6" value="D4&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;课程信息表" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
           <mxGeometry x="333" y="-239" width="109" height="30" as="geometry" />
@@ -919,8 +919,8 @@
             <mxPoint x="336" y="-12" as="targetPoint" />
             <mxPoint as="offset" />
             <Array as="points">
-              <mxPoint x="40" y="119" />
-              <mxPoint x="40" y="-93" />
+              <mxPoint x="30" y="119" />
+              <mxPoint x="30" y="-93" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -963,6 +963,13 @@
           <mxGeometry x="-0.3417" y="1" width="60" relative="1" as="geometry">
             <mxPoint x="260" y="-82" as="sourcePoint" />
             <mxPoint x="338" y="1" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DAFoW49E7b35dmBFvZMx-65" value="输出信息" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="DAFoW49E7b35dmBFvZMx-10" target="DAFoW49E7b35dmBFvZMx-5">
+          <mxGeometry x="0.3211" y="2" width="60" relative="1" as="geometry">
+            <mxPoint x="200" y="154" as="sourcePoint" />
+            <mxPoint x="121" y="199" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
