@@ -111,7 +111,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="oEefLzrWdg9wQNqp_Ybk" name="ER">
-    <mxGraphModel dx="1258" dy="688" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1527" dy="836" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -299,6 +299,9 @@
         </mxCell>
         <mxCell id="JXlEL2WUiQqSIzVI-vLw-13" value="学生" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="515" y="101" width="93" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="FHGBJ9Wsbr_s6y4MzBAc-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="JXlEL2WUiQqSIzVI-vLw-14" target="hFQoLBo29AyFhbDQp1YB-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JXlEL2WUiQqSIzVI-vLw-14" value="教师" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="185" y="404" width="96" height="45" as="geometry" />
@@ -797,7 +800,7 @@
           <mxGeometry x="278" y="-9" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2H_De_Lely4RTrFd7ijl-4" value="管理员" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-142" y="94" width="100" height="50" as="geometry" />
+          <mxGeometry x="-141" y="94" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DAFoW49E7b35dmBFvZMx-3" value="D1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;用户信息表" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
           <mxGeometry x="464" y="173.5" width="111" height="30" as="geometry" />
@@ -809,7 +812,7 @@
           <mxGeometry x="-135" y="-89.5" width="109" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DAFoW49E7b35dmBFvZMx-7" value="D2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;教学课程表" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
-          <mxGeometry x="5.5" y="274" width="113" height="30" as="geometry" />
+          <mxGeometry x="5.5" y="254" width="113" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DAFoW49E7b35dmBFvZMx-9" value="P2.1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="156" y="-31" width="98" height="53" as="geometry">
@@ -971,13 +974,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DAFoW49E7b35dmBFvZMx-65" value="输出信息" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="DAFoW49E7b35dmBFvZMx-10" target="DAFoW49E7b35dmBFvZMx-5">
-          <mxGeometry x="0.3211" y="2" width="60" relative="1" as="geometry">
+          <mxGeometry x="-0.3978" width="60" relative="1" as="geometry">
             <mxPoint x="200" y="154" as="sourcePoint" />
             <mxPoint x="121" y="199" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DAFoW49E7b35dmBFvZMx-67" value="P2.5" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="DAFoW49E7b35dmBFvZMx-67" value="P2.6" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-108" y="2" width="98" height="53" as="geometry">
             <mxRectangle x="115" y="-44" width="54" height="29" as="alternateBounds" />
           </mxGeometry>
@@ -1008,6 +1011,13 @@
           <mxGeometry x="-0.3122" y="-24" width="60" relative="1" as="geometry">
             <mxPoint x="-96" y="5" as="sourcePoint" />
             <mxPoint x="72" y="284" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DAFoW49E7b35dmBFvZMx-73" value="输出信息" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=0;exitX=0.42;exitY=1.034;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DAFoW49E7b35dmBFvZMx-68" target="2H_De_Lely4RTrFd7ijl-4">
+          <mxGeometry x="0.5392" y="-26" width="60" relative="1" as="geometry">
+            <mxPoint x="72" y="212" as="sourcePoint" />
+            <mxPoint x="-75" y="99" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
